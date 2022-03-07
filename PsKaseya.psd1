@@ -15,7 +15,7 @@
 @{
 	
 	# Script module or binary module file associated with this manifest
-	ModuleToProcess = 'PSk.psm1'
+	ModuleToProcess = 'PsKaseya.psm1'
 	
 	# Version number of this module.
 	ModuleVersion = '1.0.0.0'
@@ -27,7 +27,7 @@
 	Author = 'Zach Alexander'
 	
 	# Copyright statement for this module
-	Copyright = '(c) 2020. All rights reserved.'
+	Copyright = '(c) 2022. All rights reserved.'
 	
 	# Description of the functionality provided by this module
 	Description = 'Connects to the Kaseya API. Includes in depth datatypes for everything exposed by Kaseya.'
